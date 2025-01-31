@@ -1,4 +1,6 @@
-﻿namespace VestibularApi.Domain.Entities
+﻿using System.Text.Json.Serialization;
+
+namespace VestibularApi.Domain.Entities
 {
     public class Lead
     {
@@ -8,6 +10,7 @@
         public string Telefone { get; set; } = string.Empty;
         public string CPF { get; set; } = string.Empty;
 
+        [JsonIgnore]
         public ICollection<Inscricao> Inscricoes { get; set; } = new List<Inscricao>();
     }
 }
