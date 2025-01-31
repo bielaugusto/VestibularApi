@@ -70,7 +70,7 @@ A API foi projetada para ser escalável e de fácil integração com sistemas ex
    ```
 
 ## Link para Explicação do Projeto
-[Explicação Detalhada](#) <!-- Substituir pelo link correto -->
+[Explicação Detalhada](https://youtu.be/P2c4K0iUiJA)
 
 ## Link para a Documentação da API
 [Documentação Adicional](https://documenter.getpostman.com/view/29694328/2sAYX2Nj9e#77f229b3-9a47-487d-8669-d1b8c17af7ce)
